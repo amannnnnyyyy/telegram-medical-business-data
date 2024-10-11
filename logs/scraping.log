@@ -4455,3 +4455,283 @@
 2024-10-11 10:59:39,275:INFO:Scraped data from EAHCI and saved to EAHCI.csv
 2024-10-11 10:59:39,276:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
 2024-10-11 10:59:39,278:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-11 15:15:32,665:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 15:15:34,585:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 15:15:54,697:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-11 15:15:54,697:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-11 15:15:54,708:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 15:15:54,891:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 15:15:56,458:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:15:57,151:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-15-56.jpg from message_id: 97
+2024-10-11 15:15:57,152:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:15:58,006:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-15-57.jpg from message_id: 96
+2024-10-11 15:15:58,007:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:15:58,520:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-15-58.jpg from message_id: 95
+2024-10-11 15:15:58,521:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:15:59,066:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-15-58 (1).jpg from message_id: 94
+2024-10-11 15:15:59,066:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:15:59,842:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-15-59.jpg from message_id: 93
+2024-10-11 15:15:59,844:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:16:00,531:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-15-59 (1).jpg from message_id: 92
+2024-10-11 15:16:00,533:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:16:00,899:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-16-00.jpg from message_id: 91
+2024-10-11 15:16:00,900:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:16:02,075:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-16-00 (1).jpg from message_id: 90
+2024-10-11 15:16:02,075:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:16:03,510:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-16-02.jpg from message_id: 88
+2024-10-11 15:16:03,511:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-11 15:16:03,512:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-11 15:16:03,524:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 15:16:03,760:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 15:16:06,073:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:16:06,631:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-16-06.jpg from message_id: 12423
+2024-10-11 15:16:06,631:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:16:07,419:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-16-06 (1).jpg from message_id: 12422
+2024-10-11 15:16:07,420:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:16:08,249:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-16-07.jpg from message_id: 12421
+2024-10-11 15:16:08,250:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:16:08,947:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-16-08.jpg from message_id: 12420
+2024-10-11 15:16:08,948:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:16:10,412:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-16-08 (1).jpg from message_id: 12419
+2024-10-11 15:16:10,412:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:16:12,621:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-16-10.jpg from message_id: 12418
+2024-10-11 15:16:12,623:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:16:14,052:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-16-12.jpg from message_id: 12417
+2024-10-11 15:16:14,053:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:16:15,373:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-16-14.jpg from message_id: 12416
+2024-10-11 15:16:15,374:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:16:15,687:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-16-15.jpg from message_id: 12415
+2024-10-11 15:16:15,687:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:16:16,151:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-16-15 (1).jpg from message_id: 12414
+2024-10-11 15:16:16,151:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-11 15:16:16,152:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-11 15:16:16,165:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 15:16:16,303:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 15:16:18,530:INFO:Ignored message_id 1181 with less than two lines.
+2024-10-11 15:16:18,530:INFO:Ignored message_id 1180 with less than two lines.
+2024-10-11 15:16:18,530:INFO:Ignored message_id 1179 with less than two lines.
+2024-10-11 15:16:18,531:INFO:Ignored message_id 1178 with less than two lines.
+2024-10-11 15:16:18,531:INFO:Ignored message_id 1177 with less than two lines.
+2024-10-11 15:16:18,531:INFO:Ignored message_id 1176 with less than two lines.
+2024-10-11 15:16:18,531:INFO:Ignored message_id 1172 with less than two lines.
+2024-10-11 15:16:18,531:INFO:Ignored message_id 1170 with less than two lines.
+2024-10-11 15:16:18,531:INFO:Ignored message_id 1168 with less than two lines.
+2024-10-11 15:16:18,532:INFO:Ignored message_id 1167 with less than two lines.
+2024-10-11 15:16:18,532:INFO:Ignored message_id 1166 with less than two lines.
+2024-10-11 15:16:18,532:INFO:Ignored message_id 1165 with less than two lines.
+2024-10-11 15:16:18,532:INFO:Ignored message_id 1163 with less than two lines.
+2024-10-11 15:16:18,532:INFO:Ignored message_id 1162 with less than two lines.
+2024-10-11 15:16:18,532:INFO:Ignored message_id 1160 with less than two lines.
+2024-10-11 15:16:18,532:INFO:Ignored message_id 1159 with less than two lines.
+2024-10-11 15:16:18,532:INFO:Ignored message_id 1156 with less than two lines.
+2024-10-11 15:16:18,532:INFO:Ignored message_id 1155 with less than two lines.
+2024-10-11 15:16:18,533:INFO:Ignored message_id 1154 with less than two lines.
+2024-10-11 15:16:18,533:INFO:Ignored message_id 1153 with less than two lines.
+2024-10-11 15:16:18,533:INFO:Ignored message_id 1152 with less than two lines.
+2024-10-11 15:16:18,533:INFO:Ignored message_id 1150 with less than two lines.
+2024-10-11 15:16:18,533:INFO:Ignored message_id 1149 with less than two lines.
+2024-10-11 15:16:18,533:INFO:Ignored message_id 1147 with less than two lines.
+2024-10-11 15:16:18,533:INFO:Ignored message_id 1146 with less than two lines.
+2024-10-11 15:16:18,533:INFO:Ignored message_id 1145 with less than two lines.
+2024-10-11 15:16:18,533:INFO:Ignored message_id 1142 with less than two lines.
+2024-10-11 15:16:18,533:INFO:Ignored message_id 1141 with less than two lines.
+2024-10-11 15:16:18,533:INFO:Ignored message_id 1140 with less than two lines.
+2024-10-11 15:16:18,533:INFO:Ignored message_id 1139 with less than two lines.
+2024-10-11 15:16:18,533:INFO:Ignored message_id 1138 with less than two lines.
+2024-10-11 15:16:18,533:INFO:Ignored message_id 1137 with less than two lines.
+2024-10-11 15:16:18,533:INFO:Ignored message_id 1136 with less than two lines.
+2024-10-11 15:16:18,534:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-11 15:16:18,534:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-11 15:16:18,545:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 15:16:18,973:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 15:16:20,657:INFO:Ignored message_id 2394 with less than two lines.
+2024-10-11 15:16:20,659:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-11 15:16:20,659:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-11 15:16:20,672:INFO:Scraped data from all channels and saved to all_scraped_messages.csv
+2024-10-11 15:19:40,023:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 15:19:40,333:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 15:19:42,479:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-11 15:19:42,479:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-11 15:19:42,511:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 15:19:42,800:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 15:19:45,103:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:19:45,744:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-19-45.jpg from message_id: 97
+2024-10-11 15:19:45,744:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:19:47,679:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-19-45 (1).jpg from message_id: 96
+2024-10-11 15:19:47,680:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:19:48,398:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-19-47.jpg from message_id: 95
+2024-10-11 15:19:48,399:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:19:48,947:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-19-48.jpg from message_id: 94
+2024-10-11 15:19:48,948:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:19:49,997:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-19-48 (1).jpg from message_id: 93
+2024-10-11 15:19:49,997:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:19:51,307:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-19-49.jpg from message_id: 92
+2024-10-11 15:19:51,309:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:19:51,858:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-19-51.jpg from message_id: 91
+2024-10-11 15:19:51,858:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:19:53,514:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-19-51 (1).jpg from message_id: 90
+2024-10-11 15:19:53,514:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:19:54,933:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-19-53.jpg from message_id: 88
+2024-10-11 15:19:54,934:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-11 15:19:54,935:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-11 15:19:54,950:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 15:19:55,283:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 15:19:57,138:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:19:57,726:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-19-57.jpg from message_id: 12423
+2024-10-11 15:19:57,727:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:19:57,924:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-19-57 (1).jpg from message_id: 12422
+2024-10-11 15:19:57,924:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:19:58,959:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-19-57 (2).jpg from message_id: 12421
+2024-10-11 15:19:58,960:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:19:59,356:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-19-58.jpg from message_id: 12420
+2024-10-11 15:19:59,356:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:20:01,024:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-19-59.jpg from message_id: 12419
+2024-10-11 15:20:01,024:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:20:03,224:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-20-01.jpg from message_id: 12418
+2024-10-11 15:20:03,225:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:20:06,287:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-20-03.jpg from message_id: 12417
+2024-10-11 15:20:06,288:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:20:16,423:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-20-06.jpg from message_id: 12416
+2024-10-11 15:20:16,424:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:20:16,726:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-20-16.jpg from message_id: 12415
+2024-10-11 15:20:16,726:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 15:20:17,337:INFO:Downloaded image: ../docs/images/photo_2024-10-11_15-20-16 (1).jpg from message_id: 12414
+2024-10-11 15:20:17,338:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-11 15:20:17,339:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-11 15:20:17,353:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 15:20:17,658:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 15:20:33,123:INFO:Ignored message_id 1181 with less than two lines.
+2024-10-11 15:20:33,123:INFO:Ignored message_id 1180 with less than two lines.
+2024-10-11 15:20:33,123:INFO:Ignored message_id 1179 with less than two lines.
+2024-10-11 15:20:33,123:INFO:Ignored message_id 1178 with less than two lines.
+2024-10-11 15:20:33,123:INFO:Ignored message_id 1177 with less than two lines.
+2024-10-11 15:20:33,123:INFO:Ignored message_id 1176 with less than two lines.
+2024-10-11 15:20:33,124:INFO:Ignored message_id 1172 with less than two lines.
+2024-10-11 15:20:33,124:INFO:Ignored message_id 1170 with less than two lines.
+2024-10-11 15:20:33,124:INFO:Ignored message_id 1168 with less than two lines.
+2024-10-11 15:20:33,124:INFO:Ignored message_id 1167 with less than two lines.
+2024-10-11 15:20:33,124:INFO:Ignored message_id 1166 with less than two lines.
+2024-10-11 15:20:33,124:INFO:Ignored message_id 1165 with less than two lines.
+2024-10-11 15:20:33,125:INFO:Ignored message_id 1163 with less than two lines.
+2024-10-11 15:20:33,125:INFO:Ignored message_id 1162 with less than two lines.
+2024-10-11 15:20:33,125:INFO:Ignored message_id 1160 with less than two lines.
+2024-10-11 15:20:33,125:INFO:Ignored message_id 1159 with less than two lines.
+2024-10-11 15:20:33,125:INFO:Ignored message_id 1156 with less than two lines.
+2024-10-11 15:20:33,125:INFO:Ignored message_id 1155 with less than two lines.
+2024-10-11 15:20:33,125:INFO:Ignored message_id 1154 with less than two lines.
+2024-10-11 15:20:33,125:INFO:Ignored message_id 1153 with less than two lines.
+2024-10-11 15:20:33,125:INFO:Ignored message_id 1152 with less than two lines.
+2024-10-11 15:20:33,126:INFO:Ignored message_id 1150 with less than two lines.
+2024-10-11 15:20:33,126:INFO:Ignored message_id 1149 with less than two lines.
+2024-10-11 15:20:33,126:INFO:Ignored message_id 1147 with less than two lines.
+2024-10-11 15:20:33,126:INFO:Ignored message_id 1146 with less than two lines.
+2024-10-11 15:20:33,126:INFO:Ignored message_id 1145 with less than two lines.
+2024-10-11 15:20:33,126:INFO:Ignored message_id 1142 with less than two lines.
+2024-10-11 15:20:33,126:INFO:Ignored message_id 1141 with less than two lines.
+2024-10-11 15:20:33,126:INFO:Ignored message_id 1140 with less than two lines.
+2024-10-11 15:20:33,126:INFO:Ignored message_id 1139 with less than two lines.
+2024-10-11 15:20:33,126:INFO:Ignored message_id 1138 with less than two lines.
+2024-10-11 15:20:33,126:INFO:Ignored message_id 1137 with less than two lines.
+2024-10-11 15:20:33,126:INFO:Ignored message_id 1136 with less than two lines.
+2024-10-11 15:20:33,127:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-11 15:20:33,128:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-11 15:20:33,140:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 15:20:33,888:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 15:20:52,058:INFO:Ignored message_id 2394 with less than two lines.
+2024-10-11 15:20:52,059:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-11 15:20:52,059:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-11 15:20:52,080:INFO:Scraped data from all channels and saved to all_scraped_messages.csv
+2024-10-11 20:36:17,261:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 20:36:17,533:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 20:36:19,199:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-11 20:36:19,200:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-11 20:36:19,212:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 20:36:19,376:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 20:36:21,066:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 20:36:21,465:INFO:Downloaded image: ../docs/images/photo_2024-10-11_20-36-21.jpg from message_id: 97
+2024-10-11 20:36:21,466:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 20:36:22,014:INFO:Downloaded image: ../docs/images/photo_2024-10-11_20-36-21 (1).jpg from message_id: 96
+2024-10-11 20:36:22,015:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 20:36:22,343:INFO:Downloaded image: ../docs/images/photo_2024-10-11_20-36-22.jpg from message_id: 95
+2024-10-11 20:36:22,344:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 20:36:22,655:INFO:Downloaded image: ../docs/images/photo_2024-10-11_20-36-22 (1).jpg from message_id: 94
+2024-10-11 20:36:22,656:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 20:36:23,194:INFO:Downloaded image: ../docs/images/photo_2024-10-11_20-36-22 (2).jpg from message_id: 93
+2024-10-11 20:36:23,195:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 20:36:23,738:INFO:Downloaded image: ../docs/images/photo_2024-10-11_20-36-23.jpg from message_id: 92
+2024-10-11 20:36:23,738:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 20:36:24,075:INFO:Downloaded image: ../docs/images/photo_2024-10-11_20-36-23 (1).jpg from message_id: 91
+2024-10-11 20:36:24,076:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 20:36:24,720:INFO:Downloaded image: ../docs/images/photo_2024-10-11_20-36-24.jpg from message_id: 90
+2024-10-11 20:36:24,720:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 20:36:25,159:INFO:Downloaded image: ../docs/images/photo_2024-10-11_20-36-24 (1).jpg from message_id: 88
+2024-10-11 20:36:25,160:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-11 20:36:25,161:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-11 20:36:25,175:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 20:36:25,315:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 20:36:26,660:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 20:36:26,970:INFO:Downloaded image: ../docs/images/photo_2024-10-11_20-36-26.jpg from message_id: 12426
+2024-10-11 20:36:26,971:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 20:36:27,174:INFO:Downloaded image: ../docs/images/photo_2024-10-11_20-36-26 (1).jpg from message_id: 12425
+2024-10-11 20:36:27,175:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 20:36:27,361:INFO:Downloaded image: ../docs/images/photo_2024-10-11_20-36-27.jpg from message_id: 12424
+2024-10-11 20:36:27,362:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 20:36:27,646:INFO:Downloaded image: ../docs/images/photo_2024-10-11_20-36-27 (1).jpg from message_id: 12423
+2024-10-11 20:36:27,647:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 20:36:27,847:INFO:Downloaded image: ../docs/images/photo_2024-10-11_20-36-27 (2).jpg from message_id: 12422
+2024-10-11 20:36:27,848:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 20:36:28,201:INFO:Downloaded image: ../docs/images/photo_2024-10-11_20-36-27 (3).jpg from message_id: 12421
+2024-10-11 20:36:28,202:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 20:36:28,408:INFO:Downloaded image: ../docs/images/photo_2024-10-11_20-36-28.jpg from message_id: 12420
+2024-10-11 20:36:28,409:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 20:36:28,750:INFO:Downloaded image: ../docs/images/photo_2024-10-11_20-36-28 (1).jpg from message_id: 12419
+2024-10-11 20:36:28,750:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 20:36:29,194:INFO:Downloaded image: ../docs/images/photo_2024-10-11_20-36-28 (2).jpg from message_id: 12418
+2024-10-11 20:36:29,195:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 20:36:29,652:INFO:Downloaded image: ../docs/images/photo_2024-10-11_20-36-29.jpg from message_id: 12417
+2024-10-11 20:36:29,652:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-11 20:36:29,653:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-11 20:36:29,665:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 20:36:29,796:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 20:36:31,036:INFO:Ignored message_id 1181 with less than two lines.
+2024-10-11 20:36:31,036:INFO:Ignored message_id 1180 with less than two lines.
+2024-10-11 20:36:31,036:INFO:Ignored message_id 1179 with less than two lines.
+2024-10-11 20:36:31,036:INFO:Ignored message_id 1178 with less than two lines.
+2024-10-11 20:36:31,036:INFO:Ignored message_id 1177 with less than two lines.
+2024-10-11 20:36:31,036:INFO:Ignored message_id 1176 with less than two lines.
+2024-10-11 20:36:31,037:INFO:Ignored message_id 1172 with less than two lines.
+2024-10-11 20:36:31,037:INFO:Ignored message_id 1170 with less than two lines.
+2024-10-11 20:36:31,037:INFO:Ignored message_id 1168 with less than two lines.
+2024-10-11 20:36:31,037:INFO:Ignored message_id 1167 with less than two lines.
+2024-10-11 20:36:31,037:INFO:Ignored message_id 1166 with less than two lines.
+2024-10-11 20:36:31,037:INFO:Ignored message_id 1165 with less than two lines.
+2024-10-11 20:36:31,038:INFO:Ignored message_id 1163 with less than two lines.
+2024-10-11 20:36:31,038:INFO:Ignored message_id 1162 with less than two lines.
+2024-10-11 20:36:31,038:INFO:Ignored message_id 1160 with less than two lines.
+2024-10-11 20:36:31,038:INFO:Ignored message_id 1159 with less than two lines.
+2024-10-11 20:36:31,039:INFO:Ignored message_id 1156 with less than two lines.
+2024-10-11 20:36:31,039:INFO:Ignored message_id 1155 with less than two lines.
+2024-10-11 20:36:31,039:INFO:Ignored message_id 1154 with less than two lines.
+2024-10-11 20:36:31,039:INFO:Ignored message_id 1153 with less than two lines.
+2024-10-11 20:36:31,039:INFO:Ignored message_id 1152 with less than two lines.
+2024-10-11 20:36:31,039:INFO:Ignored message_id 1150 with less than two lines.
+2024-10-11 20:36:31,039:INFO:Ignored message_id 1149 with less than two lines.
+2024-10-11 20:36:31,039:INFO:Ignored message_id 1147 with less than two lines.
+2024-10-11 20:36:31,039:INFO:Ignored message_id 1146 with less than two lines.
+2024-10-11 20:36:31,039:INFO:Ignored message_id 1145 with less than two lines.
+2024-10-11 20:36:31,040:INFO:Ignored message_id 1142 with less than two lines.
+2024-10-11 20:36:31,040:INFO:Ignored message_id 1141 with less than two lines.
+2024-10-11 20:36:31,040:INFO:Ignored message_id 1140 with less than two lines.
+2024-10-11 20:36:31,040:INFO:Ignored message_id 1139 with less than two lines.
+2024-10-11 20:36:31,040:INFO:Ignored message_id 1138 with less than two lines.
+2024-10-11 20:36:31,040:INFO:Ignored message_id 1137 with less than two lines.
+2024-10-11 20:36:31,040:INFO:Ignored message_id 1136 with less than two lines.
+2024-10-11 20:36:31,041:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-11 20:36:31,041:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-11 20:36:31,059:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-11 20:36:31,193:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-11 20:36:32,695:INFO:Ignored message_id 2397 with less than two lines.
+2024-10-11 20:36:32,695:INFO:Ignored message_id 2394 with less than two lines.
+2024-10-11 20:36:32,696:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-11 20:36:32,697:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-11 20:36:32,718:INFO:Scraped data from all channels and saved to all_scraped_messages.csv
