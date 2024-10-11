@@ -1,0 +1,21 @@
+name: 'my_project'  # Replace with your project name
+version: '1.0'
+config-version: 2
+
+profile: 'Aman'
+
+model-paths: ["models"]
+analysis-paths: ["analysis"]
+test-paths: ["tests"]
+macro-paths: ["macros"]
+seed-paths: ["data"] 
+target-path: "target"
+clean-targets:
+  - "target"
+  - "dbt_modules"
+
+
+models:
+  scrapping:
+    load_scraped_data:
+      materialized: table
