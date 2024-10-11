@@ -6,3 +6,5 @@ pycache/
 *.sqlite3
 venv/
 .env
+docs/images/
+notebooks/session_name.session
