@@ -1,5 +1,8 @@
 import os
 import pandas as pd
+from telethon.sync import TelegramClient
+from telethon.tl.types import MessageMediaPhoto
+
 async def scrapping(logging, api_id, api_hash, RAW_DATA_PATH, IMAGE_DATA_PATH):
   
     os.makedirs(RAW_DATA_PATH, exist_ok=True)
