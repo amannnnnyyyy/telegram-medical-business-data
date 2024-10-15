@@ -9,3 +9,5 @@ venv/
 docs/images/
 notebooks/session_name.session
 yolov5
+notebooks/runs/
+notebooks/yolov5s.pt
