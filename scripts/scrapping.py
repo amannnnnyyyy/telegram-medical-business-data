@@ -8,13 +8,12 @@ async def scrapping(logging, api_id, api_hash, RAW_DATA_PATH, IMAGE_DATA_PATH):
     os.makedirs(RAW_DATA_PATH, exist_ok=True)
     os.makedirs(IMAGE_DATA_PATH, exist_ok=True)
 
-    # List to store all messages
     all_messages = []
 
     # Function to scrape a Telegram channel
     async def scrape_channel(channel_name, is_image_channel=False, target_valid_count=10):
         async with TelegramClient('session_name', api_id, api_hash) as client:
-            valid_count = 0  # Counter for valid messages
+            valid_count = 0
             
             async for message in client.iter_messages(channel_name):
                 # Check if the message has text and contains more than one line
@@ -32,7 +31,7 @@ async def scrapping(logging, api_id, api_hash, RAW_DATA_PATH, IMAGE_DATA_PATH):
                     if is_image_channel and message.media and isinstance(message.media, MessageMediaPhoto):
                         # Download the image
                         photo = await client.download_media(message.media, file=IMAGE_DATA_PATH)
-                        msg_data['image_path'] = photo  # Save the image path
+                        msg_data['image_path'] = photo 
                         logging.info(f'Downloaded image: {photo} from message_id: {message.id}')
 
                     all_messages.append(msg_data)  # Append the message data to the list
@@ -58,15 +57,17 @@ async def scrapping(logging, api_id, api_hash, RAW_DATA_PATH, IMAGE_DATA_PATH):
         'lobelia4cosmetics'
     ]
 
-    # Scrape text channels
-    for channel in text_channels:
-        is_image_channel = channel in image_channels
-        await scrape_channel(channel, is_image_channel=is_image_channel, target_valid_count=10)
+    try:
+        for channel in text_channels:
+            is_image_channel = channel in image_channels
+            await scrape_channel(channel, is_image_channel=is_image_channel, target_valid_count=10)
 
-    # Save all messages to a single CSV file after scraping all channels
-    if all_messages:
-        df = pd.DataFrame(all_messages)
-        df.to_csv(os.path.join(RAW_DATA_PATH, 'all_scraped_messages.csv'), index=False)
-        logging.info(f'Scraped data from all channels and saved to all_scraped_messages.csv')
-    else:
-        logging.info('No valid messages found in any channels.')
+        # Save all messages to a single CSV file after scraping all channels
+        if all_messages:
+            df = pd.DataFrame(all_messages)
+            df.to_csv(os.path.join(RAW_DATA_PATH, 'all_scraped_messages.csv'), index=False)
+            logging.info(f'Scraped data from all channels and saved to all_scraped_messages.csv')
+        else:
+            logging.warning('No valid messages found in any channels.')
+    except Exception as e:
+        logging.error(f'An error occurred: {e}')
