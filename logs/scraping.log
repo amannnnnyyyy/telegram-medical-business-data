@@ -8223,3 +8223,709 @@
 2024-10-15 20:05:00,510:INFO:Processed photo_2024-10-15_19-10-17 (1).jpg and saved results to ../docs/yolo_output/
 2024-10-15 20:05:00,684:INFO:Processed photo_2024-10-15_19-10-29 (1).jpg and saved results to ../docs/yolo_output/
 2024-10-15 20:05:00,921:INFO:Processed photo_2024-10-15_19-10-16.jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:38:40,195:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-16 08:38:40,295:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-16 08:38:41,234:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-16 08:38:41,234:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-16 08:38:41,245:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-16 08:38:41,343:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-16 08:38:42,293:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:38:42,541:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-38-42.jpg from message_id: 97
+2024-10-16 08:38:42,541:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:38:42,935:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-38-42 (1).jpg from message_id: 96
+2024-10-16 08:38:42,937:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:38:43,120:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-38-42 (2).jpg from message_id: 95
+2024-10-16 08:38:43,120:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:38:43,292:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-38-43.jpg from message_id: 94
+2024-10-16 08:38:43,292:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:38:43,573:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-38-43 (1).jpg from message_id: 93
+2024-10-16 08:38:43,574:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:38:43,853:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-38-43 (2).jpg from message_id: 92
+2024-10-16 08:38:43,855:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:38:44,024:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-38-43 (3).jpg from message_id: 91
+2024-10-16 08:38:44,024:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:38:44,342:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-38-44.jpg from message_id: 90
+2024-10-16 08:38:44,342:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:38:44,608:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-38-44 (1).jpg from message_id: 88
+2024-10-16 08:38:44,609:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-16 08:38:44,610:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-16 08:38:44,627:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-16 08:38:44,729:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-16 08:38:45,704:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:38:45,837:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-38-45.jpg from message_id: 12522
+2024-10-16 08:38:45,841:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:38:46,530:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-38-45 (1).jpg from message_id: 12521
+2024-10-16 08:38:46,531:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:38:46,839:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-38-46.jpg from message_id: 12520
+2024-10-16 08:38:46,840:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:38:47,111:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-38-46 (1).jpg from message_id: 12519
+2024-10-16 08:38:47,113:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:38:47,265:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-38-47.jpg from message_id: 12518
+2024-10-16 08:38:47,265:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:38:47,389:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-38-47 (1).jpg from message_id: 12517
+2024-10-16 08:38:47,391:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:38:47,642:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-38-47 (2).jpg from message_id: 12516
+2024-10-16 08:38:47,643:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:38:47,946:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-38-47 (3).jpg from message_id: 12515
+2024-10-16 08:38:47,948:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:38:48,063:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-38-47 (4).jpg from message_id: 12514
+2024-10-16 08:38:48,064:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:38:48,363:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-38-48.jpg from message_id: 12513
+2024-10-16 08:38:48,364:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-16 08:38:48,364:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-16 08:38:48,375:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-16 08:38:48,476:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-16 08:38:49,484:INFO:Ignored message_id 1181 with less than two lines.
+2024-10-16 08:38:49,484:INFO:Ignored message_id 1180 with less than two lines.
+2024-10-16 08:38:49,484:INFO:Ignored message_id 1179 with less than two lines.
+2024-10-16 08:38:49,484:INFO:Ignored message_id 1178 with less than two lines.
+2024-10-16 08:38:49,484:INFO:Ignored message_id 1177 with less than two lines.
+2024-10-16 08:38:49,484:INFO:Ignored message_id 1176 with less than two lines.
+2024-10-16 08:38:49,485:INFO:Ignored message_id 1172 with less than two lines.
+2024-10-16 08:38:49,485:INFO:Ignored message_id 1170 with less than two lines.
+2024-10-16 08:38:49,485:INFO:Ignored message_id 1168 with less than two lines.
+2024-10-16 08:38:49,485:INFO:Ignored message_id 1167 with less than two lines.
+2024-10-16 08:38:49,485:INFO:Ignored message_id 1166 with less than two lines.
+2024-10-16 08:38:49,485:INFO:Ignored message_id 1165 with less than two lines.
+2024-10-16 08:38:49,485:INFO:Ignored message_id 1163 with less than two lines.
+2024-10-16 08:38:49,486:INFO:Ignored message_id 1162 with less than two lines.
+2024-10-16 08:38:49,486:INFO:Ignored message_id 1160 with less than two lines.
+2024-10-16 08:38:49,486:INFO:Ignored message_id 1159 with less than two lines.
+2024-10-16 08:38:49,486:INFO:Ignored message_id 1156 with less than two lines.
+2024-10-16 08:38:49,486:INFO:Ignored message_id 1155 with less than two lines.
+2024-10-16 08:38:49,486:INFO:Ignored message_id 1154 with less than two lines.
+2024-10-16 08:38:49,486:INFO:Ignored message_id 1153 with less than two lines.
+2024-10-16 08:38:49,486:INFO:Ignored message_id 1152 with less than two lines.
+2024-10-16 08:38:49,486:INFO:Ignored message_id 1150 with less than two lines.
+2024-10-16 08:38:49,486:INFO:Ignored message_id 1149 with less than two lines.
+2024-10-16 08:38:49,487:INFO:Ignored message_id 1147 with less than two lines.
+2024-10-16 08:38:49,487:INFO:Ignored message_id 1146 with less than two lines.
+2024-10-16 08:38:49,487:INFO:Ignored message_id 1145 with less than two lines.
+2024-10-16 08:38:49,487:INFO:Ignored message_id 1142 with less than two lines.
+2024-10-16 08:38:49,487:INFO:Ignored message_id 1141 with less than two lines.
+2024-10-16 08:38:49,487:INFO:Ignored message_id 1140 with less than two lines.
+2024-10-16 08:38:49,487:INFO:Ignored message_id 1139 with less than two lines.
+2024-10-16 08:38:49,487:INFO:Ignored message_id 1138 with less than two lines.
+2024-10-16 08:38:49,487:INFO:Ignored message_id 1137 with less than two lines.
+2024-10-16 08:38:49,487:INFO:Ignored message_id 1136 with less than two lines.
+2024-10-16 08:38:49,487:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-16 08:38:49,488:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-16 08:38:49,499:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-16 08:38:49,599:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-16 08:38:50,644:INFO:Ignored message_id 2407 with less than two lines.
+2024-10-16 08:38:50,645:INFO:Ignored message_id 2404 with less than two lines.
+2024-10-16 08:38:50,645:INFO:Ignored message_id 2403 with less than two lines.
+2024-10-16 08:38:50,645:INFO:Ignored message_id 2397 with less than two lines.
+2024-10-16 08:38:50,646:INFO:Ignored message_id 2394 with less than two lines.
+2024-10-16 08:38:50,646:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-16 08:38:50,647:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-16 08:38:50,663:INFO:Scraped data from all channels and saved to all_scraped_messages.csv
+2024-10-16 08:39:22,488:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-16 08:39:22,643:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-16 08:39:24,117:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-16 08:39:24,117:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-16 08:39:24,128:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-16 08:39:24,228:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-16 08:39:25,393:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:39:25,669:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-39-25.jpg from message_id: 97
+2024-10-16 08:39:25,669:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:39:26,064:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-39-25 (1).jpg from message_id: 96
+2024-10-16 08:39:26,065:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:39:26,220:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-39-26.jpg from message_id: 95
+2024-10-16 08:39:26,220:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:39:26,369:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-39-26 (1).jpg from message_id: 94
+2024-10-16 08:39:26,370:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:39:26,653:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-39-26 (2).jpg from message_id: 93
+2024-10-16 08:39:26,654:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:39:26,901:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-39-26 (3).jpg from message_id: 92
+2024-10-16 08:39:26,902:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:39:27,050:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-39-26 (4).jpg from message_id: 91
+2024-10-16 08:39:27,050:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:39:27,322:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-39-27.jpg from message_id: 90
+2024-10-16 08:39:27,323:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:39:27,570:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-39-27 (1).jpg from message_id: 88
+2024-10-16 08:39:27,571:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-16 08:39:27,571:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-16 08:39:27,583:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-16 08:39:27,680:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-16 08:39:28,529:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:39:28,656:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-39-28.jpg from message_id: 12522
+2024-10-16 08:39:28,657:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:39:29,377:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-39-28 (1).jpg from message_id: 12521
+2024-10-16 08:39:29,378:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:39:29,664:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-39-29.jpg from message_id: 12520
+2024-10-16 08:39:29,665:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:39:29,935:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-39-29 (1).jpg from message_id: 12519
+2024-10-16 08:39:29,936:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:39:30,283:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-39-29 (2).jpg from message_id: 12518
+2024-10-16 08:39:30,284:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:39:30,713:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-39-30.jpg from message_id: 12517
+2024-10-16 08:39:30,715:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:39:31,052:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-39-30 (1).jpg from message_id: 12516
+2024-10-16 08:39:31,054:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:39:31,380:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-39-31.jpg from message_id: 12515
+2024-10-16 08:39:31,381:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:39:31,517:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-39-31 (1).jpg from message_id: 12514
+2024-10-16 08:39:31,519:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:39:31,792:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-39-31 (2).jpg from message_id: 12513
+2024-10-16 08:39:31,793:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-16 08:39:31,793:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-16 08:39:31,805:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-16 08:39:31,903:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-16 08:39:32,812:INFO:Ignored message_id 1181 with less than two lines.
+2024-10-16 08:39:32,812:INFO:Ignored message_id 1180 with less than two lines.
+2024-10-16 08:39:32,812:INFO:Ignored message_id 1179 with less than two lines.
+2024-10-16 08:39:32,812:INFO:Ignored message_id 1178 with less than two lines.
+2024-10-16 08:39:32,812:INFO:Ignored message_id 1177 with less than two lines.
+2024-10-16 08:39:32,813:INFO:Ignored message_id 1176 with less than two lines.
+2024-10-16 08:39:32,813:INFO:Ignored message_id 1172 with less than two lines.
+2024-10-16 08:39:32,813:INFO:Ignored message_id 1170 with less than two lines.
+2024-10-16 08:39:32,814:INFO:Ignored message_id 1168 with less than two lines.
+2024-10-16 08:39:32,814:INFO:Ignored message_id 1167 with less than two lines.
+2024-10-16 08:39:32,814:INFO:Ignored message_id 1166 with less than two lines.
+2024-10-16 08:39:32,814:INFO:Ignored message_id 1165 with less than two lines.
+2024-10-16 08:39:32,814:INFO:Ignored message_id 1163 with less than two lines.
+2024-10-16 08:39:32,814:INFO:Ignored message_id 1162 with less than two lines.
+2024-10-16 08:39:32,814:INFO:Ignored message_id 1160 with less than two lines.
+2024-10-16 08:39:32,814:INFO:Ignored message_id 1159 with less than two lines.
+2024-10-16 08:39:32,815:INFO:Ignored message_id 1156 with less than two lines.
+2024-10-16 08:39:32,815:INFO:Ignored message_id 1155 with less than two lines.
+2024-10-16 08:39:32,815:INFO:Ignored message_id 1154 with less than two lines.
+2024-10-16 08:39:32,815:INFO:Ignored message_id 1153 with less than two lines.
+2024-10-16 08:39:32,815:INFO:Ignored message_id 1152 with less than two lines.
+2024-10-16 08:39:32,815:INFO:Ignored message_id 1150 with less than two lines.
+2024-10-16 08:39:32,815:INFO:Ignored message_id 1149 with less than two lines.
+2024-10-16 08:39:32,815:INFO:Ignored message_id 1147 with less than two lines.
+2024-10-16 08:39:32,815:INFO:Ignored message_id 1146 with less than two lines.
+2024-10-16 08:39:32,815:INFO:Ignored message_id 1145 with less than two lines.
+2024-10-16 08:39:32,815:INFO:Ignored message_id 1142 with less than two lines.
+2024-10-16 08:39:32,815:INFO:Ignored message_id 1141 with less than two lines.
+2024-10-16 08:39:32,815:INFO:Ignored message_id 1140 with less than two lines.
+2024-10-16 08:39:32,815:INFO:Ignored message_id 1139 with less than two lines.
+2024-10-16 08:39:32,815:INFO:Ignored message_id 1138 with less than two lines.
+2024-10-16 08:39:32,815:INFO:Ignored message_id 1137 with less than two lines.
+2024-10-16 08:39:32,815:INFO:Ignored message_id 1136 with less than two lines.
+2024-10-16 08:39:32,816:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-16 08:39:32,816:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-16 08:39:32,827:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-16 08:39:32,926:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-16 08:39:33,822:INFO:Ignored message_id 2407 with less than two lines.
+2024-10-16 08:39:33,822:INFO:Ignored message_id 2404 with less than two lines.
+2024-10-16 08:39:33,822:INFO:Ignored message_id 2403 with less than two lines.
+2024-10-16 08:39:33,823:INFO:Ignored message_id 2397 with less than two lines.
+2024-10-16 08:39:33,823:INFO:Ignored message_id 2394 with less than two lines.
+2024-10-16 08:39:33,824:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-16 08:39:33,824:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-16 08:39:33,837:INFO:Scraped data from all channels and saved to all_scraped_messages.csv
+2024-10-16 08:40:05,284:INFO:Processed photo_2024-10-16_08-39-26 (3).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:40:05,591:INFO:Processed photo_2024-10-16_08-39-25.jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:40:05,819:INFO:Processed photo_2024-10-16_08-39-26 (2).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:40:06,026:INFO:Processed photo_2024-10-16_08-39-30.jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:40:06,248:INFO:Processed photo_2024-10-16_08-39-28 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:40:06,487:INFO:Processed photo_2024-10-16_08-39-29 (2).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:40:06,724:INFO:Processed photo_2024-10-16_08-39-26 (4).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:40:06,939:INFO:Processed photo_2024-10-16_08-39-26.jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:40:07,211:INFO:Processed photo_2024-10-16_08-39-29.jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:40:07,458:INFO:Processed photo_2024-10-16_08-39-31 (2).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:40:07,692:INFO:Processed photo_2024-10-16_08-39-28.jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:40:07,888:INFO:Processed photo_2024-10-16_08-39-31.jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:40:08,150:INFO:Processed photo_2024-10-16_08-39-27.jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:40:08,372:INFO:Processed photo_2024-10-16_08-39-31 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:40:08,636:INFO:Processed photo_2024-10-16_08-39-26 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:40:08,858:INFO:Processed photo_2024-10-16_08-39-25 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:40:09,093:INFO:Processed photo_2024-10-16_08-39-30 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:40:09,313:INFO:Processed photo_2024-10-16_08-39-29 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:40:09,555:INFO:Processed photo_2024-10-16_08-39-27 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:23,433:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-16 08:45:23,611:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-16 08:45:24,676:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-16 08:45:24,677:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-16 08:45:24,687:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-16 08:45:24,836:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-16 08:45:25,786:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:45:26,018:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-45-25.jpg from message_id: 97
+2024-10-16 08:45:26,019:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:45:26,397:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-45-26.jpg from message_id: 96
+2024-10-16 08:45:26,399:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:45:26,551:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-45-26 (1).jpg from message_id: 95
+2024-10-16 08:45:26,551:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:45:26,706:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-45-26 (2).jpg from message_id: 94
+2024-10-16 08:45:26,706:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:45:26,975:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-45-26 (3).jpg from message_id: 93
+2024-10-16 08:45:26,976:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:45:27,268:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-45-26 (4).jpg from message_id: 92
+2024-10-16 08:45:27,269:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:45:27,440:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-45-27.jpg from message_id: 91
+2024-10-16 08:45:27,441:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:45:27,743:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-45-27 (1).jpg from message_id: 90
+2024-10-16 08:45:27,744:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:45:28,034:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-45-27 (2).jpg from message_id: 88
+2024-10-16 08:45:28,035:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-16 08:45:28,036:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-16 08:45:28,050:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-16 08:45:28,151:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-16 08:45:29,041:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:45:29,168:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-45-29.jpg from message_id: 12522
+2024-10-16 08:45:29,170:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:45:29,930:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-45-29 (1).jpg from message_id: 12521
+2024-10-16 08:45:29,932:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:45:30,236:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-45-29 (2).jpg from message_id: 12520
+2024-10-16 08:45:30,236:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:45:30,501:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-45-30.jpg from message_id: 12519
+2024-10-16 08:45:30,502:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:45:30,703:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-45-30 (1).jpg from message_id: 12518
+2024-10-16 08:45:30,703:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:45:30,850:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-45-30 (2).jpg from message_id: 12517
+2024-10-16 08:45:30,852:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:45:31,236:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-45-30 (3).jpg from message_id: 12516
+2024-10-16 08:45:31,237:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:45:31,588:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-45-31.jpg from message_id: 12515
+2024-10-16 08:45:31,589:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:45:31,729:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-45-31 (1).jpg from message_id: 12514
+2024-10-16 08:45:31,730:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 08:45:32,075:INFO:Downloaded image: ../docs/images/photo_2024-10-16_08-45-31 (2).jpg from message_id: 12513
+2024-10-16 08:45:32,075:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-16 08:45:32,076:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-16 08:45:32,089:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-16 08:45:32,190:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-16 08:45:33,102:INFO:Ignored message_id 1181 with less than two lines.
+2024-10-16 08:45:33,102:INFO:Ignored message_id 1180 with less than two lines.
+2024-10-16 08:45:33,102:INFO:Ignored message_id 1179 with less than two lines.
+2024-10-16 08:45:33,102:INFO:Ignored message_id 1178 with less than two lines.
+2024-10-16 08:45:33,102:INFO:Ignored message_id 1177 with less than two lines.
+2024-10-16 08:45:33,102:INFO:Ignored message_id 1176 with less than two lines.
+2024-10-16 08:45:33,102:INFO:Ignored message_id 1172 with less than two lines.
+2024-10-16 08:45:33,103:INFO:Ignored message_id 1170 with less than two lines.
+2024-10-16 08:45:33,103:INFO:Ignored message_id 1168 with less than two lines.
+2024-10-16 08:45:33,103:INFO:Ignored message_id 1167 with less than two lines.
+2024-10-16 08:45:33,103:INFO:Ignored message_id 1166 with less than two lines.
+2024-10-16 08:45:33,103:INFO:Ignored message_id 1165 with less than two lines.
+2024-10-16 08:45:33,103:INFO:Ignored message_id 1163 with less than two lines.
+2024-10-16 08:45:33,103:INFO:Ignored message_id 1162 with less than two lines.
+2024-10-16 08:45:33,103:INFO:Ignored message_id 1160 with less than two lines.
+2024-10-16 08:45:33,103:INFO:Ignored message_id 1159 with less than two lines.
+2024-10-16 08:45:33,103:INFO:Ignored message_id 1156 with less than two lines.
+2024-10-16 08:45:33,103:INFO:Ignored message_id 1155 with less than two lines.
+2024-10-16 08:45:33,104:INFO:Ignored message_id 1154 with less than two lines.
+2024-10-16 08:45:33,104:INFO:Ignored message_id 1153 with less than two lines.
+2024-10-16 08:45:33,104:INFO:Ignored message_id 1152 with less than two lines.
+2024-10-16 08:45:33,104:INFO:Ignored message_id 1150 with less than two lines.
+2024-10-16 08:45:33,104:INFO:Ignored message_id 1149 with less than two lines.
+2024-10-16 08:45:33,104:INFO:Ignored message_id 1147 with less than two lines.
+2024-10-16 08:45:33,104:INFO:Ignored message_id 1146 with less than two lines.
+2024-10-16 08:45:33,104:INFO:Ignored message_id 1145 with less than two lines.
+2024-10-16 08:45:33,104:INFO:Ignored message_id 1142 with less than two lines.
+2024-10-16 08:45:33,104:INFO:Ignored message_id 1141 with less than two lines.
+2024-10-16 08:45:33,104:INFO:Ignored message_id 1140 with less than two lines.
+2024-10-16 08:45:33,104:INFO:Ignored message_id 1139 with less than two lines.
+2024-10-16 08:45:33,104:INFO:Ignored message_id 1138 with less than two lines.
+2024-10-16 08:45:33,104:INFO:Ignored message_id 1137 with less than two lines.
+2024-10-16 08:45:33,104:INFO:Ignored message_id 1136 with less than two lines.
+2024-10-16 08:45:33,105:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-16 08:45:33,105:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-16 08:45:33,116:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-16 08:45:33,217:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-16 08:45:34,156:INFO:Ignored message_id 2407 with less than two lines.
+2024-10-16 08:45:34,156:INFO:Ignored message_id 2404 with less than two lines.
+2024-10-16 08:45:34,157:INFO:Ignored message_id 2403 with less than two lines.
+2024-10-16 08:45:34,157:INFO:Ignored message_id 2397 with less than two lines.
+2024-10-16 08:45:34,158:INFO:Ignored message_id 2394 with less than two lines.
+2024-10-16 08:45:34,158:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-16 08:45:34,159:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-16 08:45:34,173:INFO:Scraped data from all channels and saved to all_scraped_messages.csv
+2024-10-16 08:45:42,544:INFO:Processed photo_2024-10-16_08-39-26 (3).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:42,707:INFO:Processed photo_2024-10-16_08-39-25.jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:42,862:INFO:Processed photo_2024-10-16_08-45-29.jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:43,029:INFO:Processed photo_2024-10-16_08-39-26 (2).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:43,203:INFO:Processed photo_2024-10-16_08-39-30.jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:43,479:INFO:Processed photo_2024-10-16_08-45-26 (3).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:43,738:INFO:Processed photo_2024-10-16_08-39-28 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:43,952:INFO:Processed photo_2024-10-16_08-39-29 (2).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:44,136:INFO:Processed photo_2024-10-16_08-45-26.jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:44,350:INFO:Processed photo_2024-10-16_08-39-26 (4).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:44,567:INFO:Processed photo_2024-10-16_08-39-26.jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:44,783:INFO:Processed photo_2024-10-16_08-45-27.jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:45,005:INFO:Processed photo_2024-10-16_08-39-29.jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:45,218:INFO:Processed photo_2024-10-16_08-45-30 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:45,388:INFO:Processed photo_2024-10-16_08-45-27 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:45,556:INFO:Processed photo_2024-10-16_08-45-26 (2).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:45,726:INFO:Processed photo_2024-10-16_08-45-31 (2).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:45,921:INFO:Processed photo_2024-10-16_08-39-31 (2).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:46,079:INFO:Processed photo_2024-10-16_08-45-30 (2).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:46,255:INFO:Processed photo_2024-10-16_08-45-26 (4).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:46,411:INFO:Processed photo_2024-10-16_08-39-28.jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:46,605:INFO:Processed photo_2024-10-16_08-45-29 (2).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:46,757:INFO:Processed photo_2024-10-16_08-39-31.jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:46,914:INFO:Processed photo_2024-10-16_08-45-31 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:47,086:INFO:Processed photo_2024-10-16_08-45-30 (3).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:47,261:INFO:Processed photo_2024-10-16_08-39-27.jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:47,418:INFO:Processed photo_2024-10-16_08-39-31 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:47,587:INFO:Processed photo_2024-10-16_08-45-26 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:47,735:INFO:Processed photo_2024-10-16_08-45-31.jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:47,898:INFO:Processed photo_2024-10-16_08-45-27 (2).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:48,062:INFO:Processed photo_2024-10-16_08-39-26 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:48,231:INFO:Processed photo_2024-10-16_08-39-25 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:48,436:INFO:Processed photo_2024-10-16_08-45-25.jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:48,610:INFO:Processed photo_2024-10-16_08-39-30 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:48,779:INFO:Processed photo_2024-10-16_08-39-29 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:48,917:INFO:Processed photo_2024-10-16_08-45-30.jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:49,116:INFO:Processed photo_2024-10-16_08-45-29 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 08:45:49,297:INFO:Processed photo_2024-10-16_08-39-27 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 09:49:49,654:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-16 09:49:49,783:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-16 09:49:51,266:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-16 09:49:51,267:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-16 09:49:51,279:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-16 09:49:51,422:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-16 09:49:52,672:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 09:49:52,924:INFO:Downloaded image: ../docs/images/photo_2024-10-16_09-49-52.jpg from message_id: 97
+2024-10-16 09:49:52,924:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 09:49:53,290:INFO:Downloaded image: ../docs/images/photo_2024-10-16_09-49-52 (1).jpg from message_id: 96
+2024-10-16 09:49:53,291:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 09:49:53,448:INFO:Downloaded image: ../docs/images/photo_2024-10-16_09-49-53.jpg from message_id: 95
+2024-10-16 09:49:53,448:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 09:49:53,619:INFO:Downloaded image: ../docs/images/photo_2024-10-16_09-49-53 (1).jpg from message_id: 94
+2024-10-16 09:49:53,620:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 09:49:53,885:INFO:Downloaded image: ../docs/images/photo_2024-10-16_09-49-53 (2).jpg from message_id: 93
+2024-10-16 09:49:53,887:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 09:49:54,160:INFO:Downloaded image: ../docs/images/photo_2024-10-16_09-49-53 (3).jpg from message_id: 92
+2024-10-16 09:49:54,162:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 09:49:54,336:INFO:Downloaded image: ../docs/images/photo_2024-10-16_09-49-54.jpg from message_id: 91
+2024-10-16 09:49:54,336:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 09:49:54,682:INFO:Downloaded image: ../docs/images/photo_2024-10-16_09-49-54 (1).jpg from message_id: 90
+2024-10-16 09:49:54,683:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 09:49:54,973:INFO:Downloaded image: ../docs/images/photo_2024-10-16_09-49-54 (2).jpg from message_id: 88
+2024-10-16 09:49:54,974:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-16 09:49:54,975:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-16 09:49:54,990:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-16 09:49:55,088:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-16 09:49:55,939:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 09:49:56,051:INFO:Downloaded image: ../docs/images/photo_2024-10-16_09-49-55.jpg from message_id: 12522
+2024-10-16 09:49:56,051:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 09:49:56,900:INFO:Downloaded image: ../docs/images/photo_2024-10-16_09-49-56.jpg from message_id: 12521
+2024-10-16 09:49:56,902:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 09:49:57,431:INFO:Downloaded image: ../docs/images/photo_2024-10-16_09-49-56 (1).jpg from message_id: 12520
+2024-10-16 09:49:57,432:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 09:49:57,821:INFO:Downloaded image: ../docs/images/photo_2024-10-16_09-49-57.jpg from message_id: 12519
+2024-10-16 09:49:57,822:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 09:49:58,078:INFO:Downloaded image: ../docs/images/photo_2024-10-16_09-49-57 (1).jpg from message_id: 12518
+2024-10-16 09:49:58,078:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 09:49:58,205:INFO:Downloaded image: ../docs/images/photo_2024-10-16_09-49-58.jpg from message_id: 12517
+2024-10-16 09:49:58,207:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 09:49:58,559:INFO:Downloaded image: ../docs/images/photo_2024-10-16_09-49-58 (1).jpg from message_id: 12516
+2024-10-16 09:49:58,559:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 09:49:58,864:INFO:Downloaded image: ../docs/images/photo_2024-10-16_09-49-58 (2).jpg from message_id: 12515
+2024-10-16 09:49:58,865:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 09:49:59,006:INFO:Downloaded image: ../docs/images/photo_2024-10-16_09-49-58 (3).jpg from message_id: 12514
+2024-10-16 09:49:59,006:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 09:49:59,323:INFO:Downloaded image: ../docs/images/photo_2024-10-16_09-49-59.jpg from message_id: 12513
+2024-10-16 09:49:59,324:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-16 09:49:59,324:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-16 09:49:59,335:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-16 09:49:59,436:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-16 09:50:00,522:INFO:Ignored message_id 1181 with less than two lines.
+2024-10-16 09:50:00,522:INFO:Ignored message_id 1180 with less than two lines.
+2024-10-16 09:50:00,522:INFO:Ignored message_id 1179 with less than two lines.
+2024-10-16 09:50:00,522:INFO:Ignored message_id 1178 with less than two lines.
+2024-10-16 09:50:00,522:INFO:Ignored message_id 1177 with less than two lines.
+2024-10-16 09:50:00,522:INFO:Ignored message_id 1176 with less than two lines.
+2024-10-16 09:50:00,523:INFO:Ignored message_id 1172 with less than two lines.
+2024-10-16 09:50:00,523:INFO:Ignored message_id 1170 with less than two lines.
+2024-10-16 09:50:00,523:INFO:Ignored message_id 1168 with less than two lines.
+2024-10-16 09:50:00,523:INFO:Ignored message_id 1167 with less than two lines.
+2024-10-16 09:50:00,523:INFO:Ignored message_id 1166 with less than two lines.
+2024-10-16 09:50:00,523:INFO:Ignored message_id 1165 with less than two lines.
+2024-10-16 09:50:00,523:INFO:Ignored message_id 1163 with less than two lines.
+2024-10-16 09:50:00,524:INFO:Ignored message_id 1162 with less than two lines.
+2024-10-16 09:50:00,524:INFO:Ignored message_id 1160 with less than two lines.
+2024-10-16 09:50:00,524:INFO:Ignored message_id 1159 with less than two lines.
+2024-10-16 09:50:00,524:INFO:Ignored message_id 1156 with less than two lines.
+2024-10-16 09:50:00,524:INFO:Ignored message_id 1155 with less than two lines.
+2024-10-16 09:50:00,524:INFO:Ignored message_id 1154 with less than two lines.
+2024-10-16 09:50:00,524:INFO:Ignored message_id 1153 with less than two lines.
+2024-10-16 09:50:00,524:INFO:Ignored message_id 1152 with less than two lines.
+2024-10-16 09:50:00,524:INFO:Ignored message_id 1150 with less than two lines.
+2024-10-16 09:50:00,524:INFO:Ignored message_id 1149 with less than two lines.
+2024-10-16 09:50:00,524:INFO:Ignored message_id 1147 with less than two lines.
+2024-10-16 09:50:00,524:INFO:Ignored message_id 1146 with less than two lines.
+2024-10-16 09:50:00,524:INFO:Ignored message_id 1145 with less than two lines.
+2024-10-16 09:50:00,525:INFO:Ignored message_id 1142 with less than two lines.
+2024-10-16 09:50:00,525:INFO:Ignored message_id 1141 with less than two lines.
+2024-10-16 09:50:00,525:INFO:Ignored message_id 1140 with less than two lines.
+2024-10-16 09:50:00,525:INFO:Ignored message_id 1139 with less than two lines.
+2024-10-16 09:50:00,525:INFO:Ignored message_id 1138 with less than two lines.
+2024-10-16 09:50:00,525:INFO:Ignored message_id 1137 with less than two lines.
+2024-10-16 09:50:00,525:INFO:Ignored message_id 1136 with less than two lines.
+2024-10-16 09:50:00,525:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-16 09:50:00,525:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-16 09:50:00,536:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-16 09:50:00,639:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-16 09:50:02,121:INFO:Ignored message_id 2412 with less than two lines.
+2024-10-16 09:50:02,121:INFO:Ignored message_id 2407 with less than two lines.
+2024-10-16 09:50:02,121:INFO:Ignored message_id 2404 with less than two lines.
+2024-10-16 09:50:02,121:INFO:Ignored message_id 2403 with less than two lines.
+2024-10-16 09:50:02,122:INFO:Ignored message_id 2397 with less than two lines.
+2024-10-16 09:50:02,123:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-16 09:50:02,123:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-16 09:50:02,140:INFO:Scraped data from all channels and saved to all_scraped_messages.csv
+2024-10-16 09:50:06,542:INFO:Processed photo_2024-10-16_09-49-54 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 09:50:06,693:INFO:Processed photo_2024-10-16_09-49-58.jpg and saved results to ../docs/yolo_output/
+2024-10-16 09:50:06,876:INFO:Processed photo_2024-10-16_09-49-57.jpg and saved results to ../docs/yolo_output/
+2024-10-16 09:50:07,062:INFO:Processed photo_2024-10-16_09-49-58 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 09:50:07,217:INFO:Processed photo_2024-10-16_09-49-52.jpg and saved results to ../docs/yolo_output/
+2024-10-16 09:50:07,373:INFO:Processed photo_2024-10-16_09-49-53 (2).jpg and saved results to ../docs/yolo_output/
+2024-10-16 09:50:07,528:INFO:Processed photo_2024-10-16_09-49-57 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 09:50:07,690:INFO:Processed photo_2024-10-16_09-49-53 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 09:50:07,834:INFO:Processed photo_2024-10-16_09-49-58 (3).jpg and saved results to ../docs/yolo_output/
+2024-10-16 09:50:07,983:INFO:Processed photo_2024-10-16_09-49-54.jpg and saved results to ../docs/yolo_output/
+2024-10-16 09:50:08,133:INFO:Processed photo_2024-10-16_09-49-52 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 09:50:08,318:INFO:Processed photo_2024-10-16_09-49-54 (2).jpg and saved results to ../docs/yolo_output/
+2024-10-16 09:50:08,470:INFO:Processed photo_2024-10-16_09-49-53.jpg and saved results to ../docs/yolo_output/
+2024-10-16 09:50:08,618:INFO:Processed photo_2024-10-16_09-49-58 (2).jpg and saved results to ../docs/yolo_output/
+2024-10-16 09:50:08,801:INFO:Processed photo_2024-10-16_09-49-56 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 09:50:08,989:INFO:Processed photo_2024-10-16_09-49-56.jpg and saved results to ../docs/yolo_output/
+2024-10-16 09:50:09,190:INFO:Processed photo_2024-10-16_09-49-53 (3).jpg and saved results to ../docs/yolo_output/
+2024-10-16 09:50:09,380:INFO:Processed photo_2024-10-16_09-49-55.jpg and saved results to ../docs/yolo_output/
+2024-10-16 09:50:09,597:INFO:Processed photo_2024-10-16_09-49-59.jpg and saved results to ../docs/yolo_output/
+2024-10-16 10:00:43,587:INFO:Processed photo_2024-10-16_09-49-54 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 10:00:43,723:INFO:Processed photo_2024-10-16_09-49-58.jpg and saved results to ../docs/yolo_output/
+2024-10-16 10:00:43,858:INFO:Processed photo_2024-10-16_09-49-57.jpg and saved results to ../docs/yolo_output/
+2024-10-16 10:00:44,015:INFO:Processed photo_2024-10-16_09-49-58 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 10:00:44,248:INFO:Processed photo_2024-10-16_09-49-52.jpg and saved results to ../docs/yolo_output/
+2024-10-16 10:00:44,541:INFO:Processed photo_2024-10-16_09-49-53 (2).jpg and saved results to ../docs/yolo_output/
+2024-10-16 10:00:44,718:INFO:Processed photo_2024-10-16_09-49-57 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 10:00:44,942:INFO:Processed photo_2024-10-16_09-49-53 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 10:00:45,114:INFO:Processed photo_2024-10-16_09-49-58 (3).jpg and saved results to ../docs/yolo_output/
+2024-10-16 10:00:45,291:INFO:Processed photo_2024-10-16_09-49-54.jpg and saved results to ../docs/yolo_output/
+2024-10-16 10:00:45,483:INFO:Processed photo_2024-10-16_09-49-52 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 10:00:45,697:INFO:Processed photo_2024-10-16_09-49-54 (2).jpg and saved results to ../docs/yolo_output/
+2024-10-16 10:00:45,878:INFO:Processed photo_2024-10-16_09-49-53.jpg and saved results to ../docs/yolo_output/
+2024-10-16 10:00:46,029:INFO:Processed photo_2024-10-16_09-49-58 (2).jpg and saved results to ../docs/yolo_output/
+2024-10-16 10:00:46,215:INFO:Processed photo_2024-10-16_09-49-56 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 10:00:46,429:INFO:Processed photo_2024-10-16_09-49-56.jpg and saved results to ../docs/yolo_output/
+2024-10-16 10:00:46,612:INFO:Processed photo_2024-10-16_09-49-53 (3).jpg and saved results to ../docs/yolo_output/
+2024-10-16 10:00:46,770:INFO:Processed photo_2024-10-16_09-49-55.jpg and saved results to ../docs/yolo_output/
+2024-10-16 10:00:46,980:INFO:Processed photo_2024-10-16_09-49-59.jpg and saved results to ../docs/yolo_output/
+2024-10-16 10:56:36,871:ERROR:Error occurred: 'xmin'
+2024-10-16 10:58:28,792:INFO:Read CSV with columns: ['image_file', 'label', 'bbox_x_min', 'bbox_y_min', 'bbox_width', 'bbox_height', 'image_width', 'image_height']
+2024-10-16 10:58:28,795:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-54 (1).jpg', 'label': 'medicine bottle', 'bbox_x_min': 38, 'bbox_y_min': 67, 'bbox_width': 635, 'bbox_height': 625, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 10:58:28,796:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-54 (1).jpg', 'label': 'medicine', 'bbox_x_min': 45, 'bbox_y_min': 392, 'bbox_width': 631, 'bbox_height': 290, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 10:58:28,796:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-54 (1).jpg', 'label': 'logo', 'bbox_x_min': 757, 'bbox_y_min': 186, 'bbox_width': 186, 'bbox_height': 155, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 10:58:28,796:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-54 (1).jpg', 'label': 'medicine bottle', 'bbox_x_min': 757, 'bbox_y_min': 186, 'bbox_width': 186, 'bbox_height': 155, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 10:58:28,796:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-54 (1).jpg', 'label': 'medicine bottle', 'bbox_x_min': 76, 'bbox_y_min': 71, 'bbox_width': 594, 'bbox_height': 620, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 10:58:28,797:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-58.jpg', 'label': 'product box', 'bbox_x_min': 1, 'bbox_y_min': 85, 'bbox_width': 449, 'bbox_height': 255, 'image_width': 450, 'image_height': 450}: 'xmin'
+2024-10-16 10:58:28,797:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-58.jpg', 'label': 'green tea', 'bbox_x_min': 6, 'bbox_y_min': 154, 'bbox_width': 102, 'bbox_height': 53, 'image_width': 450, 'image_height': 450}: 'xmin'
+2024-10-16 10:58:28,797:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-57.jpg', 'label': 'food', 'bbox_x_min': 0, 'bbox_y_min': 3, 'bbox_width': 811, 'bbox_height': 671, 'image_width': 811, 'image_height': 1000}: 'xmin'
+2024-10-16 10:58:28,797:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-58 (1).jpg', 'label': 'food', 'bbox_x_min': 118, 'bbox_y_min': 12, 'bbox_width': 998, 'bbox_height': 684, 'image_width': 1280, 'image_height': 1280}: 'xmin'
+2024-10-16 10:58:28,797:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-52.jpg', 'label': 'logo', 'bbox_x_min': 26, 'bbox_y_min': 20, 'bbox_width': 202, 'bbox_height': 160, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 10:58:28,797:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-53 (2).jpg', 'label': 'logo', 'bbox_x_min': 33, 'bbox_y_min': 28, 'bbox_width': 234, 'bbox_height': 186, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 10:58:28,798:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-57 (1).jpg', 'label': 'food', 'bbox_x_min': 254, 'bbox_y_min': 571, 'bbox_width': 505, 'bbox_height': 125, 'image_width': 1000, 'image_height': 1000}: 'xmin'
+2024-10-16 10:58:28,798:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-53 (1).jpg', 'label': 'food', 'bbox_x_min': 531, 'bbox_y_min': 494, 'bbox_width': 538, 'bbox_height': 202, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 10:58:28,798:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-58 (3).jpg', 'label': 'milk', 'bbox_x_min': 20, 'bbox_y_min': 4, 'bbox_width': 430, 'bbox_height': 492, 'image_width': 500, 'image_height': 500}: 'xmin'
+2024-10-16 10:58:28,798:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-54.jpg', 'label': 'logo', 'bbox_x_min': 16, 'bbox_y_min': 13, 'bbox_width': 189, 'bbox_height': 161, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 10:58:28,799:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-52 (1).jpg', 'label': 'medicine', 'bbox_x_min': 101, 'bbox_y_min': 317, 'bbox_width': 892, 'bbox_height': 379, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 10:58:28,799:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-54 (2).jpg', 'label': 'medicine', 'bbox_x_min': 15, 'bbox_y_min': 205, 'bbox_width': 483, 'bbox_height': 491, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 10:58:28,799:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-53.jpg', 'label': 'logo', 'bbox_x_min': 38, 'bbox_y_min': 15, 'bbox_width': 265, 'bbox_height': 173, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 10:58:28,799:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-56 (1).jpg', 'label': 'food', 'bbox_x_min': 117, 'bbox_y_min': 6, 'bbox_width': 963, 'bbox_height': 674, 'image_width': 1200, 'image_height': 1200}: 'xmin'
+2024-10-16 10:58:28,799:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-56.jpg', 'label': 'food', 'bbox_x_min': 184, 'bbox_y_min': 8, 'bbox_width': 1181, 'bbox_height': 688, 'image_width': 1864, 'image_height': 1864}: 'xmin'
+2024-10-16 10:58:28,799:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-53 (3).jpg', 'label': 'logo', 'bbox_x_min': 349, 'bbox_y_min': 354, 'bbox_width': 418, 'bbox_height': 290, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 10:58:28,800:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-55.jpg', 'label': 'food', 'bbox_x_min': 77, 'bbox_y_min': 0, 'bbox_width': 291, 'bbox_height': 447, 'image_width': 450, 'image_height': 450}: 'xmin'
+2024-10-16 10:58:28,800:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-59.jpg', 'label': 'food', 'bbox_x_min': 78, 'bbox_y_min': 9, 'bbox_width': 951, 'bbox_height': 687, 'image_width': 1100, 'image_height': 1100}: 'xmin'
+2024-10-16 10:58:28,800:INFO:Successfully inserted 23 records into the database.
+2024-10-16 11:09:13,323:INFO:Database connection established successfully.
+2024-10-16 11:09:13,325:INFO:Read CSV with columns: ['image_file', 'label', 'bbox_x_min', 'bbox_y_min', 'bbox_width', 'bbox_height', 'image_width', 'image_height']
+2024-10-16 11:09:13,326:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-54 (1).jpg', 'label': 'medicine bottle', 'bbox_x_min': 38, 'bbox_y_min': 67, 'bbox_width': 635, 'bbox_height': 625, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 11:09:13,326:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-54 (1).jpg', 'label': 'medicine', 'bbox_x_min': 45, 'bbox_y_min': 392, 'bbox_width': 631, 'bbox_height': 290, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 11:09:13,326:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-54 (1).jpg', 'label': 'logo', 'bbox_x_min': 757, 'bbox_y_min': 186, 'bbox_width': 186, 'bbox_height': 155, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 11:09:13,326:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-54 (1).jpg', 'label': 'medicine bottle', 'bbox_x_min': 757, 'bbox_y_min': 186, 'bbox_width': 186, 'bbox_height': 155, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 11:09:13,327:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-54 (1).jpg', 'label': 'medicine bottle', 'bbox_x_min': 76, 'bbox_y_min': 71, 'bbox_width': 594, 'bbox_height': 620, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 11:09:13,327:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-58.jpg', 'label': 'product box', 'bbox_x_min': 1, 'bbox_y_min': 85, 'bbox_width': 449, 'bbox_height': 255, 'image_width': 450, 'image_height': 450}: 'xmin'
+2024-10-16 11:09:13,327:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-58.jpg', 'label': 'green tea', 'bbox_x_min': 6, 'bbox_y_min': 154, 'bbox_width': 102, 'bbox_height': 53, 'image_width': 450, 'image_height': 450}: 'xmin'
+2024-10-16 11:09:13,327:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-57.jpg', 'label': 'food', 'bbox_x_min': 0, 'bbox_y_min': 3, 'bbox_width': 811, 'bbox_height': 671, 'image_width': 811, 'image_height': 1000}: 'xmin'
+2024-10-16 11:09:13,327:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-58 (1).jpg', 'label': 'food', 'bbox_x_min': 118, 'bbox_y_min': 12, 'bbox_width': 998, 'bbox_height': 684, 'image_width': 1280, 'image_height': 1280}: 'xmin'
+2024-10-16 11:09:13,328:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-52.jpg', 'label': 'logo', 'bbox_x_min': 26, 'bbox_y_min': 20, 'bbox_width': 202, 'bbox_height': 160, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 11:09:13,328:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-53 (2).jpg', 'label': 'logo', 'bbox_x_min': 33, 'bbox_y_min': 28, 'bbox_width': 234, 'bbox_height': 186, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 11:09:13,328:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-57 (1).jpg', 'label': 'food', 'bbox_x_min': 254, 'bbox_y_min': 571, 'bbox_width': 505, 'bbox_height': 125, 'image_width': 1000, 'image_height': 1000}: 'xmin'
+2024-10-16 11:09:13,328:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-53 (1).jpg', 'label': 'food', 'bbox_x_min': 531, 'bbox_y_min': 494, 'bbox_width': 538, 'bbox_height': 202, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 11:09:13,329:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-58 (3).jpg', 'label': 'milk', 'bbox_x_min': 20, 'bbox_y_min': 4, 'bbox_width': 430, 'bbox_height': 492, 'image_width': 500, 'image_height': 500}: 'xmin'
+2024-10-16 11:09:13,329:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-54.jpg', 'label': 'logo', 'bbox_x_min': 16, 'bbox_y_min': 13, 'bbox_width': 189, 'bbox_height': 161, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 11:09:13,329:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-52 (1).jpg', 'label': 'medicine', 'bbox_x_min': 101, 'bbox_y_min': 317, 'bbox_width': 892, 'bbox_height': 379, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 11:09:13,329:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-54 (2).jpg', 'label': 'medicine', 'bbox_x_min': 15, 'bbox_y_min': 205, 'bbox_width': 483, 'bbox_height': 491, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 11:09:13,330:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-53.jpg', 'label': 'logo', 'bbox_x_min': 38, 'bbox_y_min': 15, 'bbox_width': 265, 'bbox_height': 173, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 11:09:13,330:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-56 (1).jpg', 'label': 'food', 'bbox_x_min': 117, 'bbox_y_min': 6, 'bbox_width': 963, 'bbox_height': 674, 'image_width': 1200, 'image_height': 1200}: 'xmin'
+2024-10-16 11:09:13,330:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-56.jpg', 'label': 'food', 'bbox_x_min': 184, 'bbox_y_min': 8, 'bbox_width': 1181, 'bbox_height': 688, 'image_width': 1864, 'image_height': 1864}: 'xmin'
+2024-10-16 11:09:13,331:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-53 (3).jpg', 'label': 'logo', 'bbox_x_min': 349, 'bbox_y_min': 354, 'bbox_width': 418, 'bbox_height': 290, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 11:09:13,331:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-55.jpg', 'label': 'food', 'bbox_x_min': 77, 'bbox_y_min': 0, 'bbox_width': 291, 'bbox_height': 447, 'image_width': 450, 'image_height': 450}: 'xmin'
+2024-10-16 11:09:13,332:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-59.jpg', 'label': 'food', 'bbox_x_min': 78, 'bbox_y_min': 9, 'bbox_width': 951, 'bbox_height': 687, 'image_width': 1100, 'image_height': 1100}: 'xmin'
+2024-10-16 11:09:13,332:INFO:Successfully inserted 23 records into the database.
+2024-10-16 11:12:19,563:INFO:Database connection established successfully.
+2024-10-16 11:12:19,565:INFO:Read CSV with columns: ['image_file', 'label', 'bbox_x_min', 'bbox_y_min', 'bbox_width', 'bbox_height', 'image_width', 'image_height']
+2024-10-16 11:12:19,566:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-54 (1).jpg', 'label': 'medicine bottle', 'bbox_x_min': 38, 'bbox_y_min': 67, 'bbox_width': 635, 'bbox_height': 625, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 11:12:19,566:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-54 (1).jpg', 'label': 'medicine', 'bbox_x_min': 45, 'bbox_y_min': 392, 'bbox_width': 631, 'bbox_height': 290, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 11:12:19,567:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-54 (1).jpg', 'label': 'logo', 'bbox_x_min': 757, 'bbox_y_min': 186, 'bbox_width': 186, 'bbox_height': 155, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 11:12:19,567:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-54 (1).jpg', 'label': 'medicine bottle', 'bbox_x_min': 757, 'bbox_y_min': 186, 'bbox_width': 186, 'bbox_height': 155, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 11:12:19,567:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-54 (1).jpg', 'label': 'medicine bottle', 'bbox_x_min': 76, 'bbox_y_min': 71, 'bbox_width': 594, 'bbox_height': 620, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 11:12:19,567:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-58.jpg', 'label': 'product box', 'bbox_x_min': 1, 'bbox_y_min': 85, 'bbox_width': 449, 'bbox_height': 255, 'image_width': 450, 'image_height': 450}: 'xmin'
+2024-10-16 11:12:19,567:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-58.jpg', 'label': 'green tea', 'bbox_x_min': 6, 'bbox_y_min': 154, 'bbox_width': 102, 'bbox_height': 53, 'image_width': 450, 'image_height': 450}: 'xmin'
+2024-10-16 11:12:19,567:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-57.jpg', 'label': 'food', 'bbox_x_min': 0, 'bbox_y_min': 3, 'bbox_width': 811, 'bbox_height': 671, 'image_width': 811, 'image_height': 1000}: 'xmin'
+2024-10-16 11:12:19,568:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-58 (1).jpg', 'label': 'food', 'bbox_x_min': 118, 'bbox_y_min': 12, 'bbox_width': 998, 'bbox_height': 684, 'image_width': 1280, 'image_height': 1280}: 'xmin'
+2024-10-16 11:12:19,568:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-52.jpg', 'label': 'logo', 'bbox_x_min': 26, 'bbox_y_min': 20, 'bbox_width': 202, 'bbox_height': 160, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 11:12:19,568:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-53 (2).jpg', 'label': 'logo', 'bbox_x_min': 33, 'bbox_y_min': 28, 'bbox_width': 234, 'bbox_height': 186, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 11:12:19,568:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-57 (1).jpg', 'label': 'food', 'bbox_x_min': 254, 'bbox_y_min': 571, 'bbox_width': 505, 'bbox_height': 125, 'image_width': 1000, 'image_height': 1000}: 'xmin'
+2024-10-16 11:12:19,568:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-53 (1).jpg', 'label': 'food', 'bbox_x_min': 531, 'bbox_y_min': 494, 'bbox_width': 538, 'bbox_height': 202, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 11:12:19,568:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-58 (3).jpg', 'label': 'milk', 'bbox_x_min': 20, 'bbox_y_min': 4, 'bbox_width': 430, 'bbox_height': 492, 'image_width': 500, 'image_height': 500}: 'xmin'
+2024-10-16 11:12:19,569:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-54.jpg', 'label': 'logo', 'bbox_x_min': 16, 'bbox_y_min': 13, 'bbox_width': 189, 'bbox_height': 161, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 11:12:19,569:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-52 (1).jpg', 'label': 'medicine', 'bbox_x_min': 101, 'bbox_y_min': 317, 'bbox_width': 892, 'bbox_height': 379, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 11:12:19,569:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-54 (2).jpg', 'label': 'medicine', 'bbox_x_min': 15, 'bbox_y_min': 205, 'bbox_width': 483, 'bbox_height': 491, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 11:12:19,570:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-53.jpg', 'label': 'logo', 'bbox_x_min': 38, 'bbox_y_min': 15, 'bbox_width': 265, 'bbox_height': 173, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 11:12:19,570:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-56 (1).jpg', 'label': 'food', 'bbox_x_min': 117, 'bbox_y_min': 6, 'bbox_width': 963, 'bbox_height': 674, 'image_width': 1200, 'image_height': 1200}: 'xmin'
+2024-10-16 11:12:19,570:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-56.jpg', 'label': 'food', 'bbox_x_min': 184, 'bbox_y_min': 8, 'bbox_width': 1181, 'bbox_height': 688, 'image_width': 1864, 'image_height': 1864}: 'xmin'
+2024-10-16 11:12:19,570:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-53 (3).jpg', 'label': 'logo', 'bbox_x_min': 349, 'bbox_y_min': 354, 'bbox_width': 418, 'bbox_height': 290, 'image_width': 1080, 'image_height': 1080}: 'xmin'
+2024-10-16 11:12:19,570:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-55.jpg', 'label': 'food', 'bbox_x_min': 77, 'bbox_y_min': 0, 'bbox_width': 291, 'bbox_height': 447, 'image_width': 450, 'image_height': 450}: 'xmin'
+2024-10-16 11:12:19,571:ERROR:Error inserting row {'image_file': 'photo_2024-10-16_09-49-59.jpg', 'label': 'food', 'bbox_x_min': 78, 'bbox_y_min': 9, 'bbox_width': 951, 'bbox_height': 687, 'image_width': 1100, 'image_height': 1100}: 'xmin'
+2024-10-16 11:12:19,571:INFO:Successfully inserted 23 records into the database.
+2024-10-16 11:12:19,574:INFO:Retrieved 0 records from the database.
+2024-10-16 11:13:54,246:INFO:Read CSV with columns: ['image_file', 'label', 'bbox_x_min', 'bbox_y_min', 'bbox_width', 'bbox_height', 'image_width', 'image_height']
+2024-10-16 11:13:54,246:ERROR:Error occurred: 'xmin'
+2024-10-16 11:19:43,746:INFO:Read CSV with columns: ['image_file', 'label', 'bbox_x_min', 'bbox_y_min', 'bbox_width', 'bbox_height', 'image_width', 'image_height']
+2024-10-16 11:19:43,747:ERROR:Error occurred: 'xmin'
+2024-10-16 11:20:05,264:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-16 11:20:05,525:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-16 11:20:09,656:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-16 11:20:09,657:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-16 11:20:09,669:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-16 11:20:10,030:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-16 11:22:12,013:INFO:Closing current connection to begin reconnect...
+2024-10-16 11:22:12,015:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-16 11:22:12,142:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-16 11:22:12,695:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 11:22:13,203:INFO:Downloaded image: ../docs/images/photo_2024-10-16_11-22-12.jpg from message_id: 97
+2024-10-16 11:22:13,203:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 11:22:13,908:INFO:Downloaded image: ../docs/images/photo_2024-10-16_11-22-13.jpg from message_id: 96
+2024-10-16 11:22:13,909:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 11:22:14,268:INFO:Downloaded image: ../docs/images/photo_2024-10-16_11-22-13 (1).jpg from message_id: 95
+2024-10-16 11:22:14,268:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 11:22:14,629:INFO:Downloaded image: ../docs/images/photo_2024-10-16_11-22-14.jpg from message_id: 94
+2024-10-16 11:22:14,629:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 11:22:15,138:INFO:Downloaded image: ../docs/images/photo_2024-10-16_11-22-14 (1).jpg from message_id: 93
+2024-10-16 11:22:15,139:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 11:22:15,657:INFO:Downloaded image: ../docs/images/photo_2024-10-16_11-22-15.jpg from message_id: 92
+2024-10-16 11:22:15,657:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 11:22:15,932:INFO:Downloaded image: ../docs/images/photo_2024-10-16_11-22-15 (1).jpg from message_id: 91
+2024-10-16 11:22:15,933:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 11:22:16,443:INFO:Downloaded image: ../docs/images/photo_2024-10-16_11-22-15 (2).jpg from message_id: 90
+2024-10-16 11:22:16,443:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 11:22:16,832:INFO:Downloaded image: ../docs/images/photo_2024-10-16_11-22-16.jpg from message_id: 88
+2024-10-16 11:22:16,833:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-16 11:22:16,833:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-16 11:22:16,846:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-16 11:22:16,944:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-16 11:22:17,914:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 11:22:18,425:INFO:Downloaded image: ../docs/images/photo_2024-10-16_11-22-17.jpg from message_id: 12523
+2024-10-16 11:22:18,426:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 11:22:18,542:INFO:Downloaded image: ../docs/images/photo_2024-10-16_11-22-18.jpg from message_id: 12522
+2024-10-16 11:22:18,542:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 11:22:19,114:INFO:Downloaded image: ../docs/images/photo_2024-10-16_11-22-18 (1).jpg from message_id: 12521
+2024-10-16 11:22:19,115:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 11:22:19,387:INFO:Downloaded image: ../docs/images/photo_2024-10-16_11-22-19.jpg from message_id: 12520
+2024-10-16 11:22:19,388:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 11:22:19,663:INFO:Downloaded image: ../docs/images/photo_2024-10-16_11-22-19 (1).jpg from message_id: 12519
+2024-10-16 11:22:19,664:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 11:22:19,791:INFO:Downloaded image: ../docs/images/photo_2024-10-16_11-22-19 (2).jpg from message_id: 12518
+2024-10-16 11:22:19,791:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 11:22:19,938:INFO:Downloaded image: ../docs/images/photo_2024-10-16_11-22-19 (3).jpg from message_id: 12517
+2024-10-16 11:22:19,940:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 11:22:20,230:INFO:Downloaded image: ../docs/images/photo_2024-10-16_11-22-19 (4).jpg from message_id: 12516
+2024-10-16 11:22:20,230:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 11:22:20,543:INFO:Downloaded image: ../docs/images/photo_2024-10-16_11-22-20.jpg from message_id: 12515
+2024-10-16 11:22:20,544:INFO:Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-16 11:22:20,683:INFO:Downloaded image: ../docs/images/photo_2024-10-16_11-22-20 (1).jpg from message_id: 12514
+2024-10-16 11:22:20,684:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-16 11:22:20,685:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-16 11:22:20,703:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-16 11:22:20,803:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-16 11:22:21,749:INFO:Ignored message_id 1181 with less than two lines.
+2024-10-16 11:22:21,749:INFO:Ignored message_id 1180 with less than two lines.
+2024-10-16 11:22:21,749:INFO:Ignored message_id 1179 with less than two lines.
+2024-10-16 11:22:21,749:INFO:Ignored message_id 1178 with less than two lines.
+2024-10-16 11:22:21,749:INFO:Ignored message_id 1177 with less than two lines.
+2024-10-16 11:22:21,749:INFO:Ignored message_id 1176 with less than two lines.
+2024-10-16 11:22:21,750:INFO:Ignored message_id 1172 with less than two lines.
+2024-10-16 11:22:21,750:INFO:Ignored message_id 1170 with less than two lines.
+2024-10-16 11:22:21,750:INFO:Ignored message_id 1168 with less than two lines.
+2024-10-16 11:22:21,750:INFO:Ignored message_id 1167 with less than two lines.
+2024-10-16 11:22:21,750:INFO:Ignored message_id 1166 with less than two lines.
+2024-10-16 11:22:21,750:INFO:Ignored message_id 1165 with less than two lines.
+2024-10-16 11:22:21,750:INFO:Ignored message_id 1163 with less than two lines.
+2024-10-16 11:22:21,751:INFO:Ignored message_id 1162 with less than two lines.
+2024-10-16 11:22:21,751:INFO:Ignored message_id 1160 with less than two lines.
+2024-10-16 11:22:21,751:INFO:Ignored message_id 1159 with less than two lines.
+2024-10-16 11:22:21,751:INFO:Ignored message_id 1156 with less than two lines.
+2024-10-16 11:22:21,752:INFO:Ignored message_id 1155 with less than two lines.
+2024-10-16 11:22:21,752:INFO:Ignored message_id 1154 with less than two lines.
+2024-10-16 11:22:21,752:INFO:Ignored message_id 1153 with less than two lines.
+2024-10-16 11:22:21,752:INFO:Ignored message_id 1152 with less than two lines.
+2024-10-16 11:22:21,752:INFO:Ignored message_id 1150 with less than two lines.
+2024-10-16 11:22:21,752:INFO:Ignored message_id 1149 with less than two lines.
+2024-10-16 11:22:21,752:INFO:Ignored message_id 1147 with less than two lines.
+2024-10-16 11:22:21,753:INFO:Ignored message_id 1146 with less than two lines.
+2024-10-16 11:22:21,753:INFO:Ignored message_id 1145 with less than two lines.
+2024-10-16 11:22:21,753:INFO:Ignored message_id 1142 with less than two lines.
+2024-10-16 11:22:21,753:INFO:Ignored message_id 1141 with less than two lines.
+2024-10-16 11:22:21,753:INFO:Ignored message_id 1140 with less than two lines.
+2024-10-16 11:22:21,753:INFO:Ignored message_id 1139 with less than two lines.
+2024-10-16 11:22:21,753:INFO:Ignored message_id 1138 with less than two lines.
+2024-10-16 11:22:21,753:INFO:Ignored message_id 1137 with less than two lines.
+2024-10-16 11:22:21,753:INFO:Ignored message_id 1136 with less than two lines.
+2024-10-16 11:22:21,753:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-16 11:22:21,754:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-16 11:22:21,774:INFO:Connecting to 149.154.167.91:443/TcpFull...
+2024-10-16 11:22:21,876:INFO:Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-16 11:22:22,940:INFO:Ignored message_id 2412 with less than two lines.
+2024-10-16 11:22:22,940:INFO:Ignored message_id 2407 with less than two lines.
+2024-10-16 11:22:22,940:INFO:Ignored message_id 2404 with less than two lines.
+2024-10-16 11:22:22,940:INFO:Ignored message_id 2403 with less than two lines.
+2024-10-16 11:22:22,941:INFO:Ignored message_id 2397 with less than two lines.
+2024-10-16 11:22:22,941:INFO:Disconnecting from 149.154.167.91:443/TcpFull...
+2024-10-16 11:22:22,942:INFO:Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-10-16 11:22:22,956:INFO:Scraped data from all channels and saved to all_scraped_messages.csv
+2024-10-16 11:22:32,533:INFO:Processed photo_2024-10-16_09-49-54 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:32,744:INFO:Processed photo_2024-10-16_09-49-58.jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:32,939:INFO:Processed photo_2024-10-16_11-22-20.jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:33,134:INFO:Processed photo_2024-10-16_09-49-57.jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:33,388:INFO:Processed photo_2024-10-16_09-49-58 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:33,597:INFO:Processed photo_2024-10-16_11-22-15 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:33,804:INFO:Processed photo_2024-10-16_09-49-52.jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:34,001:INFO:Processed photo_2024-10-16_11-22-12.jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:34,174:INFO:Processed photo_2024-10-16_09-49-53 (2).jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:34,331:INFO:Processed photo_2024-10-16_11-22-20 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:34,496:INFO:Processed photo_2024-10-16_09-49-57 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:34,669:INFO:Processed photo_2024-10-16_11-22-16.jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:34,858:INFO:Processed photo_2024-10-16_11-22-19.jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:35,022:INFO:Processed photo_2024-10-16_09-49-53 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:35,196:INFO:Processed photo_2024-10-16_11-22-17.jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:35,371:INFO:Processed photo_2024-10-16_11-22-13 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:35,538:INFO:Processed photo_2024-10-16_11-22-14 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:35,693:INFO:Processed photo_2024-10-16_09-49-58 (3).jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:35,878:INFO:Processed photo_2024-10-16_11-22-19 (4).jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:36,051:INFO:Processed photo_2024-10-16_11-22-15.jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:36,263:INFO:Processed photo_2024-10-16_09-49-54.jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:36,462:INFO:Processed photo_2024-10-16_11-22-18.jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:36,646:INFO:Processed photo_2024-10-16_09-49-52 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:36,822:INFO:Processed photo_2024-10-16_11-22-19 (3).jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:37,045:INFO:Processed photo_2024-10-16_09-49-54 (2).jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:37,217:INFO:Processed photo_2024-10-16_09-49-53.jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:37,430:INFO:Processed photo_2024-10-16_11-22-18 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:37,582:INFO:Processed photo_2024-10-16_09-49-58 (2).jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:37,736:INFO:Processed photo_2024-10-16_11-22-19 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:37,918:INFO:Processed photo_2024-10-16_09-49-56 (1).jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:38,100:INFO:Processed photo_2024-10-16_11-22-15 (2).jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:38,311:INFO:Processed photo_2024-10-16_09-49-56.jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:38,482:INFO:Processed photo_2024-10-16_11-22-14.jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:38,661:INFO:Processed photo_2024-10-16_09-49-53 (3).jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:38,875:INFO:Processed photo_2024-10-16_09-49-55.jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:39,088:INFO:Processed photo_2024-10-16_11-22-19 (2).jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:39,317:INFO:Processed photo_2024-10-16_09-49-59.jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:22:39,497:INFO:Processed photo_2024-10-16_11-22-13.jpg and saved results to ../docs/yolo_output/
+2024-10-16 11:23:43,782:INFO:Read CSV with columns: ['image_file', 'label', 'bbox_x_min', 'bbox_y_min', 'bbox_width', 'bbox_height', 'image_width', 'image_height']
+2024-10-16 11:23:43,783:ERROR:Error occurred: 'xmin'
